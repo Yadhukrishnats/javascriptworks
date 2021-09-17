@@ -25,6 +25,6 @@
 //low=4,upp=25
 //print all prime numbers b/w low to upp limit
 
-//power  rabger problem
+//power  ranger problem
 //2=24
 //3=369
